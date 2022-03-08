@@ -4,7 +4,7 @@ import { Link } from 'gatsby';
 export default function AboutPage() {
   return (
     <main>
-      <h1>About This Site</h1>
+      <h1>About This Site!</h1>
       <Link to="/">Back to home</Link>
     </main>
   );
